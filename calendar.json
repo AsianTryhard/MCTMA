@@ -1,0 +1,54 @@
+{
+  "monthly": [
+    {
+      "id": 1,
+      "name": "Task #1",
+      "startdate": "2017-10-3",
+      "enddate": "",
+      "starttime": "12:00",
+      "endtime": "2:00",
+      "color": "#1976D2",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Task #2",
+      "startdate": "2017-10-14",
+      "enddate": "",
+      "starttime": "12:00",
+      "endtime": "2:00",
+      "color": "#1976D2",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Task #3",
+      "startdate": "2017-10-19",
+      "enddate": "",
+      "starttime": "12:00",
+      "endtime": "2:00",
+      "color": "#1976D2",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Task #4",
+      "startdate": "2017-10-21",
+      "enddate": "",
+      "starttime": "12:00",
+      "endtime": "2:00",
+      "color": "#1976D2",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Task #5",
+      "startdate": "2017-10-24",
+      "enddate": "",
+      "starttime": "12:00",
+      "endtime": "2:00",
+      "color": "#1976D2",
+      "url": ""
+    }
+  ]
+}
